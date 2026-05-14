@@ -3,7 +3,7 @@
 **Analista de Dados · Cientista de Dados · Business Intelligence · Automação com Python**
 
 Assessor Técnico na Controladoria de Inteligência e Governança de Dados do Governo do Estado de São Paulo.
-Sou formado em Engenheiro de Computação formado e em Ciência dos Dados, com atuação focada em transformação digital no setor público — construção de indicadores estratégicos, dashboards executivos em Power BI, automação de processos analíticos e governança de dados.
+Sou formado em Engenharia de Computação e em Ciência dos Dados, com atuação focada em transformação digital no setor público — construção de indicadores estratégicos, dashboards executivos em Power BI, automação de processos analíticos e governança de dados.
 
 Tenho experiência em modelagem dimensional, ETL, limpeza e padronização de bases institucionais, além do desenvolvimento de ferramentas de automação para coleta e tratamento de dados públicos. Meu objetivo é usar dados e tecnologia de forma prática para gerar eficiência, transparência e melhores resultados na administração pública.
 
