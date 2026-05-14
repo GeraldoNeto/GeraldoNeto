@@ -19,7 +19,6 @@ Experiência em análise de dados no setor público, com foco em transparência,
 
 ### 📌 Projetos em destaque
 
-- **[Automacoes](https://github.com/GeraldoNeto/Automacoes)** — Automação de coleta de dados públicos com Selenium, login automático, gravação de filtros e exportação estruturada para Excel
 - **[painel-financeiro](https://github.com/GeraldoNeto/painel-financeiro)** — Painel de análise e visualização de dados financeiros
 
 ---
