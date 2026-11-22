@@ -93,6 +93,13 @@ Transcritor de áudio em texto com interface gráfica, exportando para TXT, SRT,
 
 ---
 
+### 🔹 [residencia-dermatologia](https://github.com/GeraldoNeto/residencia-dermatologia)
+Painel interativo dos programas de residência em Dermatologia no Brasil, montado só com fontes oficiais: editais, prazos de inscrição, taxas, provas, vagas, concorrência, notas de corte e mapa, com monitoramento das páginas oficiais e aviso de mudanças nos editais.
+
+`JavaScript` `Leaflet` `Node.js` `Dados públicos`
+
+---
+
 ### 🔹 Automações de Dados Públicos *(repositório privado)*
 Scripts de automação para coleta, tratamento e exportação de dados, com interface gráfica e geração de relatórios em Excel e PDF.
 
