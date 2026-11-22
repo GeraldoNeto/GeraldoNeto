@@ -9,6 +9,18 @@ Tenho experiência em modelagem dimensional, ETL, limpeza e padronização de ba
 
 ---
 
+## 📈 Resultados Recentes
+
+- **Consulta 92% mais rápida:** a busca por código no sistema de monitoramento caiu de 1,67 s para 139 ms. Medi cada trecho da consulta SQL antes de otimizar.
+- **Ficha dos 645 municípios paulistas:** de 12 s para menos de 0,1 s.
+- **Relatório de 3–5 dias para 30 min:** automatizei a elaboração de um relatório recorrente.
+- **Robô de leitura de PDF:** Python e Selenium leem planos de trabalho. Na primeira rodada real foram 156 códigos, 144 coletados e nenhum erro.
+- **Relatório mensal de Audiências Públicas** (R$ 40 milhões em repasses) automatizado em Excel e PDF.
+- **3º lugar no Prêmio.Gov.Digital 2026 (ABEP-TIC)**, na categoria Melhor Solução de Governo Digital Inclusivo, com o Monitor de Acessibilidade Web. Cuidei da camada de dados e do BI.
+- **Coautor de pôster aceito na 70ª RBras** (Campinas, nov/2026): comparação de modelos de séries temporais (ETS, SARIMAX e Prophet) para prever pagamentos na execução orçamentária do Governo de SP.
+
+---
+
 ## 🛠️ Stack Principal
 
 **Dados & Análise**
